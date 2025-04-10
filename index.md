@@ -1,7 +1,7 @@
-# **This is my public GitHub Page**
+# **#PrjectMeteorRain - Game 1**
 **Welcome to "The Lost Tapes of Kharla Monterey"**
 - Note: This GitHub Page is still under construction.
-### Task List
+### ALTERNATE REALITY GAME
 - **[x] What is an Alternate Reality Game?**
   An alternate reality game (ARG) is an interactive narrative that uses the real world as a platform to deliver a story that unfolds over time. It combines elements of gaming, storytelling, and real-world activities to create an immersive experience for players. Here are some key features of ARGs:
 
